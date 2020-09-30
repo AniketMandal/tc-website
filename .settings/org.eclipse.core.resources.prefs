@@ -40,3 +40,4 @@ encoding//src/main/com/topcoder/www/bugs/rpc/soap/jirasoapservice_v2/JiraSoapSer
 encoding//src/main/com/topcoder/www/bugs/rpc/soap/jirasoapservice_v2/JiraSoapServiceService.java=UTF-8
 encoding//src/main/com/topcoder/www/bugs/rpc/soap/jirasoapservice_v2/JiraSoapServiceServiceLocator.java=UTF-8
 encoding//src/main/com/topcoder/www/bugs/rpc/soap/jirasoapservice_v2/JirasoapserviceV2SoapBindingStub.java=UTF-8
+System.out.println{}
